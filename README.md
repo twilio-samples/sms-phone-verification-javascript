@@ -15,8 +15,8 @@ This application example demonstrates how to do simple phone verification with N
 
 Implementations in other languages:
 
-| .NET                                                               | Java                                                             | Python                                                             | PHP                                                             | Ruby                                                              |
-| :----------------------------------------------------------------- | :--------------------------------------------------------------- | :----------------------------------------------------------------- | :-------------------------------------------------------------- | :---------------------------------------------------------------- |
+| .NET                                                                    | Java                                                             | Python                                                                  | PHP                                                                  | Ruby                                                              |
+| :---------------------------------------------------------------------- | :--------------------------------------------------------------- | :---------------------------------------------------------------------- | :------------------------------------------------------------------- | :---------------------------------------------------------------- |
 | [Done](https://github.com/twilio-samples/sms-phone-verification-csharp) | [Done](https://github.com/TwilioDevEd/verify-v2-quickstart-java) | [Done](https://github.com/twilio-samples/sms-phone-verification-python) | [Done](https://github.com/twilio-samples/sms-phone-verification-php) | [Done](https://github.com/TwilioDevEd/verify-v2-quickstart-rails) |
 
 ## Set up
@@ -24,7 +24,7 @@ Implementations in other languages:
 ### Requirements
 
 - Twilio account - [Sign Up](https://www.twilio.com/try-twilio)
-- Twilio Verify service with SMS & Voice Channels enabled  - [Create service here](https://www.twilio.com/console/verify/services)
+- Twilio Verify service with SMS & Voice Channels enabled - [Create service here](https://www.twilio.com/console/verify/services)
 - [Nodejs](https://nodejs.org/) v16+
 - [Sqlite3](https://www.sqlite.org/)
 
