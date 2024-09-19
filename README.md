@@ -44,8 +44,8 @@ Before we begin, we need to collect all the config values we need to run the app
 1. First clone this repository and `cd` into it.
 
    ```bash
-   git clone git@github.com:TwilioDevEd/verify-v2-quickstart-node.git
-   cd verify-v2-quickstart-node
+   git clone git@github.com:twilio-samples/sms-phone-verification-javascript.git
+   cd sms-phone-verification-javascript
    ```
 
 2. Install dependencies.
